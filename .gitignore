@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# Solana keypairs
+*.json
+
+# Temporary files
+*.jpg
+temp_metadata.json
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE
+.idea/
+.vscode/
