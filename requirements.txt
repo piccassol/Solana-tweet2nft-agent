@@ -1,0 +1,6 @@
+solana
+solders
+borsh-construct
+requests
+beautifulsoup4
+nftstorage
